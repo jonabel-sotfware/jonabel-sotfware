@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\MiprimerApp\MIprimerAPP\MIprimerAPP\bin\Debug\MIprimerAPP.exe.config
+C:\Users\Usuario\Documents\MiprimerApp\MIprimerAPP\MIprimerAPP\bin\Debug\MIprimerAPP.exe
+C:\Users\Usuario\Documents\MiprimerApp\MIprimerAPP\MIprimerAPP\bin\Debug\MIprimerAPP.pdb
+C:\Users\Usuario\Documents\MiprimerApp\MIprimerAPP\MIprimerAPP\obj\Debug\MIprimerAPP.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\MiprimerApp\MIprimerAPP\MIprimerAPP\obj\Debug\MIprimerAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\MiprimerApp\MIprimerAPP\MIprimerAPP\obj\Debug\MIprimerAPP.Form1.resources
+C:\Users\Usuario\Documents\MiprimerApp\MIprimerAPP\MIprimerAPP\obj\Debug\MIprimerAPP.Properties.Resources.resources
+C:\Users\Usuario\Documents\MiprimerApp\MIprimerAPP\MIprimerAPP\obj\Debug\MIprimerAPP.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\MiprimerApp\MIprimerAPP\MIprimerAPP\obj\Debug\MIprimerAPP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\MiprimerApp\MIprimerAPP\MIprimerAPP\obj\Debug\MIprimerAPP.exe
+C:\Users\Usuario\Documents\MiprimerApp\MIprimerAPP\MIprimerAPP\obj\Debug\MIprimerAPP.pdb
