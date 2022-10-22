@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Desktop/imagen"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My Web Sites"
+	}
+}
