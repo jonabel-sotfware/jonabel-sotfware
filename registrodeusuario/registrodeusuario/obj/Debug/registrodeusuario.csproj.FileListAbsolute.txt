@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\MiprimerApp\registrodeusuario\registrodeusuario\bin\Debug\registrodeusuario.exe.config
+C:\Users\Usuario\Documents\MiprimerApp\registrodeusuario\registrodeusuario\bin\Debug\registrodeusuario.exe
+C:\Users\Usuario\Documents\MiprimerApp\registrodeusuario\registrodeusuario\bin\Debug\registrodeusuario.pdb
+C:\Users\Usuario\Documents\MiprimerApp\registrodeusuario\registrodeusuario\obj\Debug\registrodeusuario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\MiprimerApp\registrodeusuario\registrodeusuario\obj\Debug\registrodeusuario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\MiprimerApp\registrodeusuario\registrodeusuario\obj\Debug\registrodeusuario.Form1.resources
+C:\Users\Usuario\Documents\MiprimerApp\registrodeusuario\registrodeusuario\obj\Debug\registrodeusuario.Properties.Resources.resources
+C:\Users\Usuario\Documents\MiprimerApp\registrodeusuario\registrodeusuario\obj\Debug\registrodeusuario.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\MiprimerApp\registrodeusuario\registrodeusuario\obj\Debug\registrodeusuario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\MiprimerApp\registrodeusuario\registrodeusuario\obj\Debug\registrodeusuario.exe
+C:\Users\Usuario\Documents\MiprimerApp\registrodeusuario\registrodeusuario\obj\Debug\registrodeusuario.pdb
+C:\Users\Usuario\Documents\MiprimerApp\registrodeusuario\registrodeusuario\obj\Debug\registrodeusuario.Form2.resources
